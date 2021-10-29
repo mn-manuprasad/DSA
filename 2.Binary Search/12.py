@@ -64,12 +64,6 @@ class Solution():
         return start
 
 
-    
-
-
-
-
-
 ls = [1,2,4,6]
 m = 3
 ans = Solution().splitArray(ls, m)
