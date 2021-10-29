@@ -28,10 +28,6 @@ class Solution():
         return -1  #if there is no pivot which means the array is not rotated
 
 
-
-
-
-
 # ls = [2, 3, 6, 12]
 
 ls = [4,5,6,7,0,1,2]
